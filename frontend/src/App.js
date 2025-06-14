@@ -89,7 +89,7 @@ Check-out: ${formData.checkOut}
 Room Type: ${formData.roomType}
 Message: ${formData.message}
     `;
-    window.location.href = `mailto:info@yaapoguesthouse.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+    window.location.href = `mailto:baahgeorge497@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
   };
 
   const scrollToSection = (sectionId) => {
