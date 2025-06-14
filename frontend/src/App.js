@@ -34,7 +34,7 @@ function App() {
       type: 'Air-Conditioned Room',
       price: '160',
       currency: 'GH₵',
-      features: ['Air Conditioning', 'Television', 'Private Bathroom', 'WiFi Access'],
+      features: ['Air Conditioning', 'Television', 'Private Bathroom'],
       image: 'https://images.unsplash.com/photo-1667054430237-2a2afe4cb863',
       description: 'Luxurious comfort with modern air conditioning and premium amenities.'
     },
@@ -42,7 +42,7 @@ function App() {
       type: 'Standard Room',
       price: '100',
       currency: 'GH₵',
-      features: ['Television', 'Fan', 'Private Bathroom', 'WiFi Access'],
+      features: ['Television', 'Fan', 'Private Bathroom'],
       image: 'https://images.pexels.com/photos/1416530/pexels-photo-1416530.jpeg',
       description: 'Comfortable accommodation with essential amenities at an affordable price.'
     }
