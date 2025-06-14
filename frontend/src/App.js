@@ -384,14 +384,14 @@ Message: ${formData.message}
                     <PhoneIcon className="w-6 h-6 mr-4 text-gold-300" />
                     <div>
                       <p className="font-medium">Call us</p>
-                      <p className="text-white/90">+233 XX XXX XXXX</p>
+                      <p className="text-white/90">+233530965113 / +233556002465</p>
                     </div>
                   </div>
                   <div className="flex items-center">
                     <EnvelopeIcon className="w-6 h-6 mr-4 text-gold-300" />
                     <div>
                       <p className="font-medium">Email us</p>
-                      <p className="text-white/90">info@yaapoguesthouse.com</p>
+                      <p className="text-white/90">baahgeorge497@gmail.com</p>
                     </div>
                   </div>
                   <div className="flex items-center">
