@@ -283,11 +283,10 @@ Message: ${formData.message}
             </p>
           </motion.div>
 
-          <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-8">
+          <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-8">
             {[
               { icon: AdjustmentsHorizontalIcon, title: 'Air Conditioning', desc: 'Climate control in premium rooms' },
               { icon: TvIcon, title: 'Television', desc: 'Entertainment in every room' },
-              { icon: WifiIcon, title: 'Free WiFi', desc: 'High-speed internet access' },
               { icon: MapPinIcon, title: 'Prime Location', desc: 'Heart of Koforidua Oyoko' }
             ].map((amenity, index) => (
               <motion.div
