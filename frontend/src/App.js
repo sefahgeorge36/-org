@@ -34,7 +34,7 @@ function App() {
       price: '160',
       currency: 'GH₵',
       features: ['Air Conditioning', 'Television', 'Private Bathroom'],
-      image: 'https://images.unsplash.com/photo-1667054430237-2a2afe4cb863',
+      image: 'https://drive.google.com/uc?export=view&id=1I1NDjkXLM9-WM2_Vl_8ds9hFAHxJHLz-',
       description: 'Luxurious comfort with modern air conditioning and premium amenities.'
     },
     {
