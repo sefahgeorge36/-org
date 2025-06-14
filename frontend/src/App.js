@@ -4,7 +4,6 @@ import {
   PhoneIcon, 
   EnvelopeIcon, 
   MapPinIcon,
-  WifiIcon,
   TvIcon,
   AdjustmentsHorizontalIcon,
   StarIcon,
